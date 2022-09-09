@@ -9,11 +9,12 @@ Raw text sources are collected from online newspapers and magazines of Javanese,
 After that, we selected graphemically-balanced Sentences from the validated text data. A minimum set with a total of 225 sentences is produced using [the greedy search algorithm](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2003/papers/p15_3145.pdf). 
 
 | Graphame | Javanese |  Sundanese |  Balinese | Bataks | 
-|                    | #Units | Coverage | # Units | Coverage | # Units | Coverage | # Units | Coverage | 
-| Mono-grapheme | 27 | 100% | 27 | 100% | 28 | 100% | 23 | 100% |  
-| Left Bi-grapheme | 487 | 86.50% | 489 | 87.79% | 441 | 82.28% | 287 90.25% | 
-| Right Bi-grapheme | 482 | 86.07% | 487 | 87.59% | 438 | 82.18% | 285 90.19% |  
-| Tri-grapheme | 3269 | 53.99% | 3197 | 52.56% | 2796 | 53.35% | 1767 71.42% | 
+| ---------| -------: |----------: | --------: | -----: |
+|                    | #Units [Coverage] | # Units [Coverage] | # Units [Coverage] | # Units [Coverage] | 
+| Mono-grapheme | 27 [100%] | 27 [100%] | 28 [100%] | 23 [100%] |  
+| Left Bi-grapheme | 487 [86.50%] | 489 [87.79%] | 441 [82.28%] | 287 [90.25%] | 
+| Right Bi-grapheme | 482 [86.07%] | 487 [87.59%] | 438 [82.18%] | 285 [90.19%] |  
+| Tri-grapheme | 3269 [53.99%] | 3197 [52.56%] | 2796 [53.35%] | 1767 [71.42%] | 
 
 Forty native speakers participated in the recording, 10 native speakers (5 males and 5 females) of each Javanese, Sundanese, Balinese, Bataks language, which originally came from ethnics of Java, Sunda, Bali, and North Sumatra. Then, each speaker was asked to read the prepared text of the 225 sentences. Each audio file is a single-channel 16-bit PCM WAV with a sample rate of 16 kHz.
 
@@ -22,6 +23,7 @@ Forty native speakers participated in the recording, 10 native speakers (5 males
 In addition to graphemically balanced sentences, we created fifty sentences in Indonesian based on the travel expression. Those sentences were then translated into Javanese, Sundanese, Balinese, and Bataks languages by native speakers. 
 
 | Languages | Sentences | 
+| --------- | --------- |
 | Indonesian | Apakah anda bersedia untuk makan dengan saya besok malam? | 
 | Javanese | Opo kowe gelem mangan bareng aku sesuk bengi? |  
 | Sundanese | Dupi anjeun sanggem kanggo tuang sareng abdi enjing wengi? | 
