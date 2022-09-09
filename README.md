@@ -52,6 +52,10 @@ The file with "traInd" and "traEth" on the same utterance ID XXXX are parallel u
 "Ind001_F_Bli_C_traEth_0001.wav"
 ```
 
+# Training and Test Dataset
+
+In the original paper [[Sakti et al., 2013]], we simply divide news content as the training data and travel expression content as the test set (dataset1_train_news_{Jaw,Snd,Bli,Btk}.lst, dataset1_test_traEth_{Jaw,Snd,Bli,Btk}.lst, and dataset1_test_traInd_{Jaw,Snd,Bli,Btk}.lst). However, in this case, there are overlapping speakers on the training and test set. So we also set up non-overlapping speakers only based on news content, where 8 speakers with 200 utterances/speaker for training and two speakers with 25 utterances/speaker for the test set (see dataset2_train_news_{Jaw,Snd,Bli,Btk}.lst, (dataset2_test_news_{Jaw,Snd,Bli,Btk}.lst). 
+
 ## License
 
 This data is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) International License (see LICENSE_CC-BY-NC-SA-4.0.txt). You can use the data free for non-commercial purposes, but you have to cite our paper if your work uses our data in your publication. If you remix, transform or build upon the material, you must distribute your contributions under the same license as the original. Furthermore, you are not allowed to create a copy of this dataset and share it publicly in your own repository without our permission.
