@@ -1,6 +1,6 @@
 # INDspeech07: INDspeech_NEWSTRA_EthnicSR
 
-This is a collection of graphemically balanced and parallel speech corpora of four major Indonesian ethnic languages: Javanese, Sundanese, Balinese, and Bataks. It was developed in 2013 by the Nara Institute of Science and Technology (NAIST, Japan) [[Sakti et al., 2013](https://ieeexplore.ieee.org/document/6709907)]. The data has been used to develop Indonesian ethnic speech recognition in supervised [[Sakti et al., 2014](https://www.isca-speech.org/archive/sltu_2014/sakti14_sltu.html)] and semi-supervised learning [[Novitasari et al., 2020](https://aclanthology.org/2020.sltu-1.18/)] based on Machine Speech Chain framework [[Tjandra et al., 2020](https://ieeexplore.ieee.org/document/9020132)]. 
+This is a collection of graphemically balanced and parallel speech corpora of four major Indonesian ethnic languages: Javanese, Sundanese, Balinese, and Bataks. It was developed in 2013 by the Nara Institute of Science and Technology (NAIST, Japan) [[Sakti et al., 2013](https://ieeexplore.ieee.org/document/6709907)]. The data has been used to develop Indonesian ethnic speech recognition in supervised learning [[Sakti et al., 2014](https://www.isca-speech.org/archive/sltu_2014/sakti14_sltu.html)] and semi-supervised learning [[Novitasari et al., 2020](https://aclanthology.org/2020.sltu-1.18/)] based on Machine Speech Chain framework [[Tjandra et al., 2020](https://ieeexplore.ieee.org/document/9020132)]. 
 
 ## Text and Speech Resources of Graphemically-balanced dataset
 
