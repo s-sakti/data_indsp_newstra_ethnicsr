@@ -54,7 +54,7 @@ The file with "traInd" and "traEth" on the same utterance ID XXXX are parallel u
 
 # Training and Test Dataset
 
-In the original paper [[Sakti et al., 2013]], we simply divide news content as the training data and travel expression content as the test set (dataset1_train_news_{Jaw,Snd,Bli,Btk}.lst, dataset1_test_traEth_{Jaw,Snd,Bli,Btk}.lst, and dataset1_test_traInd_{Jaw,Snd,Bli,Btk}.lst). However, in this case, there are overlapping speakers on the training and test set. So we also set up non-overlapping speakers only based on news content, where 8 speakers with 200 utterances/speaker for training and two speakers with 25 utterances/speaker for the test set (see dataset2_train_news_{Jaw,Snd,Bli,Btk}.lst, (dataset2_test_news_{Jaw,Snd,Bli,Btk}.lst). 
+In the original paper [[Sakti et al., 2013]], we simply divide news content as the training data and travel expression content as the test set (dataset1_train_news_{Jaw,Snd,Bli,Btk}.lst, dataset1_test_traEth_{Jaw,Snd,Bli,Btk}.lst, and dataset1_test_traInd_{Jaw,Snd,Bli,Btk}.lst). However, in this case, there are overlapping speakers on the training and test set. So we also set up non-overlapping speakers only based on news content, where 8 speakers with 200 utterances/speaker for training and two speakers with 25 utterances/speaker for the test set (see dataset2_train_news_{Jaw,Snd,Bli,Btk}.lst and dataset2_test_news_{Jaw,Snd,Bli,Btk}.lst). 
 
 ## License
 
