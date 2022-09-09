@@ -60,15 +60,37 @@ This data is licensed under the [Creative Commons Attribution-NonCommercial-Shar
 
 Please cite the following papers:
 
-[[Sani et al., 2012](doc/2012_ssakti_OCOCOSDA.pdf)]:
-
+[[Sakti et al., 2013](doc/2013_ssakti_OCOCOSDA.pdf)]:
 ```
-@inproceedings{sani-cocosda-2012,
-    title = "Towards Language Preservation: Preliminary Collection and Vowel Analysis of {I}ndonesian Ethnic Speech Data",
-    author = "Sani, Auliya and Sakti, Sakriani and Neubig, Graham and Toda, Tomoki and Mulyanto, Adi and Nakamura, Satoshi",
+@inproceedings{sakti-cocosda-2013,
+    title = "Towards Language Preservation: Design and Collection of Graphemically Balanced and Parallel Speech Corpora of {I}ndonesian Ethnic Languages",
+    author = "Sakti, Sakriani and Nakamura, Satoshi",
     booktitle = "Proc. Oriental COCOSDA",
-    year = "2012",
-    pages = "118--122"
-    address = "Macau, China"
+    year = "2013",
+    address = "Gurgaon, India"
+}
+```
+
+[[Sakti et al., 2014](https://www.isca-speech.org/archive/sltu_2014/sakti14_sltu.html)]:
+```
+@inproceedings{sakti-sltu-2014,
+  title = "Recent progress in developing grapheme-based speech recognition for {I}ndonesian ethnic languages: {J}avanese, {S}undanese, {B}alinese and {B}ataks",
+  author = "Sakti, Sakriani and Nakamura, Satoshi",
+  booktitle = "Proc. 4th Workshop on Spoken Language Technologies for Under-Resourced Languages (SLTU 2014)",
+  year = "2014",
+  pages = "46--52",
+  address = "St. Petersburg, Russia"
+}
+```
+
+[[Novitasari et al., 2020](https://aclanthology.org/2020.sltu-1.18/)] 
+```
+@inproceedings{novitasari-sltu-2020,
+  title = "Cross-Lingual Machine Speech Chain for {J}avanese, {S}undanese, {B}alinese, and {B}ataks Speech Recognition and Synthesis",
+  author = "Novitasari, Sashi and Tjandra, Andros and Sakti, Sakriani and Nakamura, Satoshi",
+  booktitle = "Proc. Joint Workshop on Spoken Language Technologies for Under-resourced languages (SLTU) and Collaboration and Computing for Under-Resourced Languages (CCURL)",
+  year = "2020",
+  pages = "131--138",
+  address = "Marseille, France"
 }
 ```
